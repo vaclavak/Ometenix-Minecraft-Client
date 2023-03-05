@@ -15,8 +15,22 @@ Modules:
 
 
 • NoFall
+
+
+
+
+
 • FullBright
+
+
+
+
+
 • KillAura
+
+
+
+
 • Fly
 
 Features:
@@ -27,8 +41,28 @@ Official Discord server:
 https://discord.gg/5CW66MMD3M
 
 On our discord you can find:
+
+
+
+
+
 • Changelog
+
+
+
+
+
 • Sneakpeeks
+
+
+
+
+
 • Terms of usage
+
+
+
+
+
 • and more!
 
